@@ -1,0 +1,892 @@
+[2026-01-16 12:31:19] ======================================================================
+[2026-01-16 12:31:19] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:31:19] ======================================================================
+[2026-01-16 12:31:19] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:31:20] Error scraping series star-trek-starfleet-academy: 406 Client Error: Not Acceptable for url: https://academy.trekcore.com/episodes/
+[2026-01-16 12:31:25] Scraping Star Trek: Strange New Worlds...
+[2026-01-16 12:31:26] Error scraping series star-trek-strange-new-worlds: 406 Client Error: Not Acceptable for url: https://snw.trekcore.com/episodes/
+[2026-01-16 12:31:56] ======================================================================
+[2026-01-16 12:31:56] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:31:56] ======================================================================
+[2026-01-16 12:31:56] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:31:57] Error scraping series star-trek-starfleet-academy: 406 Client Error: Not Acceptable for url: https://academy.trekcore.com/episodes/
+[2026-01-16 12:32:17] ======================================================================
+[2026-01-16 12:32:17] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:32:17] ======================================================================
+[2026-01-16 12:32:17] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:32:18] Error scraping series star-trek-starfleet-academy: 406 Client Error: Not Acceptable for url: https://academy.trekcore.com/episodes/
+[2026-01-16 12:32:23] Scraping Star Trek: Strange New Worlds...
+[2026-01-16 12:32:23] Error scraping series star-trek-strange-new-worlds: 406 Client Error: Not Acceptable for url: https://snw.trekcore.com/episodes/
+[2026-01-16 12:32:28] Scraping Star Trek: Discovery...
+[2026-01-16 12:32:29] Error scraping series star-trek-discovery: 406 Client Error: Not Acceptable for url: https://discovery.trekcore.com/episodes/
+[2026-01-16 12:32:34] Scraping Star Trek: Lower Decks...
+[2026-01-16 12:32:35] Error scraping series star-trek-lower-decks: 406 Client Error: Not Acceptable for url: https://lowerdecks.trekcore.com/episodes/
+[2026-01-16 12:32:38] ======================================================================
+[2026-01-16 12:32:38] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:32:38] ======================================================================
+[2026-01-16 12:32:38] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:32:44] Scraping Star Trek: Strange New Worlds...
+[2026-01-16 12:32:49] Scraping Star Trek: Discovery...
+[2026-01-16 12:32:55] Scraping Star Trek: Lower Decks...
+[2026-01-16 12:33:00] Scraping Star Trek: Prodigy...
+[2026-01-16 12:33:07] ⚠️ No se encontraron nuevos screencaps
+[2026-01-16 12:33:07] ======================================================================
+[2026-01-16 12:33:07] ✅ TrekCore Scraper finalizado
+[2026-01-16 12:33:07] ======================================================================
+[2026-01-16 12:35:53] ======================================================================
+[2026-01-16 12:35:53] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:35:53] ======================================================================
+[2026-01-16 12:35:53] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:35:54]   Encontradas 20 celdas de episodios
+[2026-01-16 12:35:54]   Procesando S1E01: Kids These Days
+[2026-01-16 12:35:54]     Scraping página: https://academy.trekcore.com/season1/sfa-ep101.html
+[2026-01-16 12:35:54]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep101.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep101.html
+[2026-01-16 12:35:54]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:35:57]   Procesando S1E02: Beta Test
+[2026-01-16 12:35:57]     Scraping página: https://academy.trekcore.com/season1/sfa-ep102.html
+[2026-01-16 12:35:58]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep102.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep102.html
+[2026-01-16 12:35:58]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:01]   Procesando S1E03: Episode 103
+[2026-01-16 12:36:01]     📝 Título actualizado: Episode 103 -> Vitus Reflux
+[2026-01-16 12:36:01]     Scraping página: https://academy.trekcore.com/season1/sfa-ep103.html
+[2026-01-16 12:36:02]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep103.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep103.html
+[2026-01-16 12:36:02]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:05]   Procesando S1E04: Episode 104
+[2026-01-16 12:36:05]     📝 Título actualizado: Episode 104 -> Vox in Excelsio
+[2026-01-16 12:36:05]     Scraping página: https://academy.trekcore.com/season1/sfa-ep104.html
+[2026-01-16 12:36:05]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep104.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep104.html
+[2026-01-16 12:36:05]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:08]   Procesando S1E05: Episode 105
+[2026-01-16 12:36:08]     📝 Título actualizado: Episode 105 -> Series Acclimation Mil
+[2026-01-16 12:36:08]     Scraping página: https://academy.trekcore.com/season1/sfa-ep105.html
+[2026-01-16 12:36:09]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep105.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep105.html
+[2026-01-16 12:36:09]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:12]   Procesando S1E06: Episode 106
+[2026-01-16 12:36:12]     📝 Título actualizado: Episode 106 -> Come, Let's Away
+[2026-01-16 12:36:12]     Scraping página: https://academy.trekcore.com/season1/sfa-ep106.html
+[2026-01-16 12:36:12]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep106.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep106.html
+[2026-01-16 12:36:12]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:15]   Procesando S1E07: Episode 107
+[2026-01-16 12:36:15]     Scraping página: https://academy.trekcore.com/season1/sfa-ep107.html
+[2026-01-16 12:36:16]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep107.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep107.html
+[2026-01-16 12:36:16]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:19]   Procesando S1E08: Episode 108
+[2026-01-16 12:36:19]     Scraping página: https://academy.trekcore.com/season1/sfa-ep108.html
+[2026-01-16 12:36:19]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep108.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep108.html
+[2026-01-16 12:36:19]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:22]   Procesando S1E09: Episode 109
+[2026-01-16 12:36:22]     Scraping página: https://academy.trekcore.com/season1/sfa-ep109.html
+[2026-01-16 12:36:23]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep109.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep109.html
+[2026-01-16 12:36:23]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:26]   Procesando S1E10: Episode 110
+[2026-01-16 12:36:26]     Scraping página: https://academy.trekcore.com/season1/sfa-ep110.html
+[2026-01-16 12:36:27]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep110.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep110.html
+[2026-01-16 12:36:27]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:30]   Procesando S2E01: Episode 201
+[2026-01-16 12:36:30]     Scraping página: https://academy.trekcore.com/season2/sfa-ep201.html
+[2026-01-16 12:36:30]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep201.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep201.html
+[2026-01-16 12:36:30]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:33]   Procesando S2E02: Episode 202
+[2026-01-16 12:36:33]     Scraping página: https://academy.trekcore.com/season2/sfa-ep202.html
+[2026-01-16 12:36:34]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep202.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep202.html
+[2026-01-16 12:36:34]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:37]   Procesando S2E03: Episode 203
+[2026-01-16 12:36:37]     Scraping página: https://academy.trekcore.com/season2/sfa-ep203.html
+[2026-01-16 12:36:37]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep203.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep203.html
+[2026-01-16 12:36:37]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:40]   Procesando S2E04: Episode 204
+[2026-01-16 12:36:40]     Scraping página: https://academy.trekcore.com/season2/sfa-ep204.html
+[2026-01-16 12:36:41]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep204.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep204.html
+[2026-01-16 12:36:41]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:44]   Procesando S2E05: Episode 205
+[2026-01-16 12:36:44]     Scraping página: https://academy.trekcore.com/season2/sfa-ep205.html
+[2026-01-16 12:36:44]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep205.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep205.html
+[2026-01-16 12:36:44]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:47]   Procesando S2E06: Episode 206
+[2026-01-16 12:36:47]     Scraping página: https://academy.trekcore.com/season2/sfa-ep206.html
+[2026-01-16 12:36:48]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep206.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep206.html
+[2026-01-16 12:36:48]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:51]   Procesando S2E07: Episode 207
+[2026-01-16 12:36:51]     Scraping página: https://academy.trekcore.com/season2/sfa-ep207.html
+[2026-01-16 12:36:52]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep207.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep207.html
+[2026-01-16 12:36:52]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:55]   Procesando S2E08: Episode 208
+[2026-01-16 12:36:55]     Scraping página: https://academy.trekcore.com/season2/sfa-ep208.html
+[2026-01-16 12:36:55]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep208.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep208.html
+[2026-01-16 12:36:55]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:36:58]   Procesando S2E09: Episode 209
+[2026-01-16 12:36:58]     Scraping página: https://academy.trekcore.com/season2/sfa-ep209.html
+[2026-01-16 12:36:59]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep209.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep209.html
+[2026-01-16 12:36:59]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:37:02]   Procesando S2E10: Episode 210
+[2026-01-16 12:37:02]     Scraping página: https://academy.trekcore.com/season2/sfa-ep210.html
+[2026-01-16 12:37:02]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep210.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep210.html
+[2026-01-16 12:37:02]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:37:05] ✅ Total procesado: 0 episodios con screencaps
+[2026-01-16 12:37:10] ⚠️ No se encontraron screencaps
+[2026-01-16 12:37:10] ======================================================================
+[2026-01-16 12:37:10] ✅ TrekCore Scraper finalizado
+[2026-01-16 12:37:10] ======================================================================
+[2026-01-16 12:37:47] ======================================================================
+[2026-01-16 12:37:47] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:37:47] ======================================================================
+[2026-01-16 12:37:47] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:37:47]   Encontradas 20 celdas de episodios
+[2026-01-16 12:37:47]   Procesando S1E01: Kids These Days
+[2026-01-16 12:37:47]     Scraping página: https://academy.trekcore.com/season1/sfa-ep101.html
+[2026-01-16 12:37:48]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep101.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep101.html
+[2026-01-16 12:37:48]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep101.html
+
+[2026-01-16 12:37:48]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:37:51]   Procesando S1E02: Beta Test
+[2026-01-16 12:37:51]     Scraping página: https://academy.trekcore.com/season1/sfa-ep102.html
+[2026-01-16 12:37:51]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep102.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep102.html
+[2026-01-16 12:37:51]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep102.html
+
+[2026-01-16 12:37:51]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:37:54]   Procesando S1E03: Episode 103
+[2026-01-16 12:37:54]     📝 Título actualizado: Episode 103 -> Vitus Reflux
+[2026-01-16 12:37:54]     Scraping página: https://academy.trekcore.com/season1/sfa-ep103.html
+[2026-01-16 12:37:55]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep103.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep103.html
+[2026-01-16 12:37:55]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep103.html
+
+[2026-01-16 12:37:55]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:37:58]   Procesando S1E04: Episode 104
+[2026-01-16 12:37:58]     📝 Título actualizado: Episode 104 -> Vox in Excelsio
+[2026-01-16 12:37:58]     Scraping página: https://academy.trekcore.com/season1/sfa-ep104.html
+[2026-01-16 12:37:58]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep104.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep104.html
+[2026-01-16 12:37:58]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep104.html
+
+[2026-01-16 12:37:58]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:01]   Procesando S1E05: Episode 105
+[2026-01-16 12:38:01]     📝 Título actualizado: Episode 105 -> Series Acclimation Mil
+[2026-01-16 12:38:01]     Scraping página: https://academy.trekcore.com/season1/sfa-ep105.html
+[2026-01-16 12:38:02]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep105.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep105.html
+[2026-01-16 12:38:02]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep105.html
+
+[2026-01-16 12:38:02]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:05]   Procesando S1E06: Episode 106
+[2026-01-16 12:38:05]     📝 Título actualizado: Episode 106 -> Come, Let's Away
+[2026-01-16 12:38:05]     Scraping página: https://academy.trekcore.com/season1/sfa-ep106.html
+[2026-01-16 12:38:06]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep106.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep106.html
+[2026-01-16 12:38:06]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep106.html
+
+[2026-01-16 12:38:06]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:09]   Procesando S1E07: Episode 107
+[2026-01-16 12:38:09]     Scraping página: https://academy.trekcore.com/season1/sfa-ep107.html
+[2026-01-16 12:38:09]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep107.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep107.html
+[2026-01-16 12:38:09]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep107.html
+
+[2026-01-16 12:38:09]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:12]   Procesando S1E08: Episode 108
+[2026-01-16 12:38:12]     Scraping página: https://academy.trekcore.com/season1/sfa-ep108.html
+[2026-01-16 12:38:13]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep108.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep108.html
+[2026-01-16 12:38:13]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep108.html
+
+[2026-01-16 12:38:13]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:16]   Procesando S1E09: Episode 109
+[2026-01-16 12:38:16]     Scraping página: https://academy.trekcore.com/season1/sfa-ep109.html
+[2026-01-16 12:38:16]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep109.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep109.html
+[2026-01-16 12:38:16]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep109.html
+
+[2026-01-16 12:38:16]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:19]   Procesando S1E10: Episode 110
+[2026-01-16 12:38:19]     Scraping página: https://academy.trekcore.com/season1/sfa-ep110.html
+[2026-01-16 12:38:20]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep110.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep110.html
+[2026-01-16 12:38:20]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep110.html
+
+[2026-01-16 12:38:20]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:23]   Procesando S2E01: Episode 201
+[2026-01-16 12:38:23]     Scraping página: https://academy.trekcore.com/season2/sfa-ep201.html
+[2026-01-16 12:38:23]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep201.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep201.html
+[2026-01-16 12:38:23]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep201.html
+
+[2026-01-16 12:38:23]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:26]   Procesando S2E02: Episode 202
+[2026-01-16 12:38:26]     Scraping página: https://academy.trekcore.com/season2/sfa-ep202.html
+[2026-01-16 12:38:27]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep202.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep202.html
+[2026-01-16 12:38:27]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep202.html
+
+[2026-01-16 12:38:27]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:30]   Procesando S2E03: Episode 203
+[2026-01-16 12:38:30]     Scraping página: https://academy.trekcore.com/season2/sfa-ep203.html
+[2026-01-16 12:38:31]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep203.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep203.html
+[2026-01-16 12:38:31]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep203.html
+
+[2026-01-16 12:38:31]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:34]   Procesando S2E04: Episode 204
+[2026-01-16 12:38:34]     Scraping página: https://academy.trekcore.com/season2/sfa-ep204.html
+[2026-01-16 12:38:34]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep204.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep204.html
+[2026-01-16 12:38:34]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep204.html
+
+[2026-01-16 12:38:34]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:37]   Procesando S2E05: Episode 205
+[2026-01-16 12:38:37]     Scraping página: https://academy.trekcore.com/season2/sfa-ep205.html
+[2026-01-16 12:38:38]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep205.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep205.html
+[2026-01-16 12:38:38]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep205.html
+
+[2026-01-16 12:38:38]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:41]   Procesando S2E06: Episode 206
+[2026-01-16 12:38:41]     Scraping página: https://academy.trekcore.com/season2/sfa-ep206.html
+[2026-01-16 12:38:41]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep206.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep206.html
+[2026-01-16 12:38:41]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep206.html
+
+[2026-01-16 12:38:41]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:44]   Procesando S2E07: Episode 207
+[2026-01-16 12:38:44]     Scraping página: https://academy.trekcore.com/season2/sfa-ep207.html
+[2026-01-16 12:38:45]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep207.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep207.html
+[2026-01-16 12:38:45]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep207.html
+
+[2026-01-16 12:38:45]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:47] ======================================================================
+[2026-01-16 12:38:47] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:38:47] ======================================================================
+[2026-01-16 12:38:47] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:38:47]   Encontradas 20 celdas de episodios
+[2026-01-16 12:38:47]   Procesando S1E01: Kids These Days
+[2026-01-16 12:38:47]     Scraping página: https://academy.trekcore.com/season1/sfa-ep101.html
+[2026-01-16 12:38:48]     ❌ Error scraping https://academy.trekcore.com/season1/sfa-ep101.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep101.html
+[2026-01-16 12:38:48]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season1/sfa-ep101.html
+
+[2026-01-16 12:38:48]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:48]   Procesando S2E08: Episode 208
+[2026-01-16 12:38:48]     Scraping página: https://academy.trekcore.com/season2/sfa-ep208.html
+[2026-01-16 12:38:48]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep208.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep208.html
+[2026-01-16 12:38:48]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep208.html
+
+[2026-01-16 12:38:48]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:51]   Procesando S2E09: Episode 209
+[2026-01-16 12:38:51]     Scraping página: https://academy.trekcore.com/season2/sfa-ep209.html
+[2026-01-16 12:38:52]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep209.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep209.html
+[2026-01-16 12:38:52]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep209.html
+
+[2026-01-16 12:38:52]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:55]   Procesando S2E10: Episode 210
+[2026-01-16 12:38:55]     Scraping página: https://academy.trekcore.com/season2/sfa-ep210.html
+[2026-01-16 12:38:56]     ❌ Error scraping https://academy.trekcore.com/season2/sfa-ep210.html: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep210.html
+[2026-01-16 12:38:56]        Traceback (most recent call last):
+  File "trekcore_scraper.py", line 87, in scrape_episode_page
+    response.raise_for_status()
+  File "/home/alex/.local/lib/python3.8/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://academy.trekcore.com/season2/sfa-ep210.html
+
+[2026-01-16 12:38:56]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:38:59] ✅ Total procesado: 0 episodios con screencaps
+[2026-01-16 12:39:04] ⚠️ No se encontraron screencaps
+[2026-01-16 12:39:04] ======================================================================
+[2026-01-16 12:39:04] ✅ TrekCore Scraper finalizado
+[2026-01-16 12:39:04] ======================================================================
+[2026-01-16 12:39:28] ======================================================================
+[2026-01-16 12:39:28] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:39:28] ======================================================================
+[2026-01-16 12:39:28] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:39:28]   Encontradas 20 celdas de episodios
+[2026-01-16 12:39:28]   Procesando S1E01: Kids These Days
+[2026-01-16 12:39:28]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep101.html
+[2026-01-16 12:39:29]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:39:29]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:39:29]     Total de imágenes en galería: 44
+[2026-01-16 12:39:29]     Total de screencaps válidos: 0
+[2026-01-16 12:39:29]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:39:32]   Procesando S1E02: Beta Test
+[2026-01-16 12:39:32]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep102.html
+[2026-01-16 12:39:33]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:39:33]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:39:34]     Total de imágenes en galería: 44
+[2026-01-16 12:39:34]     Total de screencaps válidos: 0
+[2026-01-16 12:39:34]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:39:39] ======================================================================
+[2026-01-16 12:39:39] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:39:39] ======================================================================
+[2026-01-16 12:39:39] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:39:39]   Encontradas 20 celdas de episodios
+[2026-01-16 12:39:39]   Procesando S1E01: Kids These Days
+[2026-01-16 12:39:39]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep101.html
+[2026-01-16 12:39:40]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:39:40]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:39:40]     Total de imágenes en galería: 44
+[2026-01-16 12:39:40]     Total de screencaps válidos: 0
+[2026-01-16 12:39:40]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:39:43]   Procesando S1E02: Beta Test
+[2026-01-16 12:39:43]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep102.html
+[2026-01-16 12:39:44]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:39:44]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:39:45]     Total de imágenes en galería: 44
+[2026-01-16 12:39:45]     Total de screencaps válidos: 0
+[2026-01-16 12:39:45]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:39:48]   Procesando S1E03: Episode 103
+[2026-01-16 12:39:48]     📝 Título actualizado: Episode 103 -> Vitus Reflux
+[2026-01-16 12:39:48]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep103.html
+[2026-01-16 12:39:48]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=7
+[2026-01-16 12:39:48]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=7
+[2026-01-16 12:39:49]     Total de imágenes en galería: 23
+[2026-01-16 12:39:49]     Total de screencaps válidos: 0
+[2026-01-16 12:39:49]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:39:52]   Procesando S1E04: Episode 104
+[2026-01-16 12:39:52]     📝 Título actualizado: Episode 104 -> Vox in Excelsio
+[2026-01-16 12:39:52]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep104.html
+[2026-01-16 12:39:52]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=8
+[2026-01-16 12:39:52]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=8
+[2026-01-16 12:39:53]     Total de imágenes en galería: 20
+[2026-01-16 12:39:53]     Total de screencaps válidos: 0
+[2026-01-16 12:39:53]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:39:56]   Procesando S1E05: Episode 105
+[2026-01-16 12:39:56]     📝 Título actualizado: Episode 105 -> Series Acclimation Mil
+[2026-01-16 12:39:56]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep105.html
+[2026-01-16 12:39:57]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=9
+[2026-01-16 12:39:57]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=9
+[2026-01-16 12:39:57]     Total de imágenes en galería: 22
+[2026-01-16 12:39:57]     Total de screencaps válidos: 0
+[2026-01-16 12:39:57]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:00]   Procesando S1E06: Episode 106
+[2026-01-16 12:40:00]     📝 Título actualizado: Episode 106 -> Come, Let's Away
+[2026-01-16 12:40:00]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep106.html
+[2026-01-16 12:40:01]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=10
+[2026-01-16 12:40:01]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=10
+[2026-01-16 12:40:01]     Total de imágenes en galería: 20
+[2026-01-16 12:40:01]     Total de screencaps válidos: 0
+[2026-01-16 12:40:01]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:04]   Procesando S1E07: Episode 107
+[2026-01-16 12:40:04]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep107.html
+[2026-01-16 12:40:05]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=11
+[2026-01-16 12:40:05]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=11
+[2026-01-16 12:40:06]     Total de imágenes en galería: 18
+[2026-01-16 12:40:06]     Total de screencaps válidos: 0
+[2026-01-16 12:40:06]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:09]   Procesando S1E08: Episode 108
+[2026-01-16 12:40:09]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep108.html
+[2026-01-16 12:40:09]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=12
+[2026-01-16 12:40:09]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=12
+[2026-01-16 12:40:10]     Total de imágenes en galería: 21
+[2026-01-16 12:40:10]     Total de screencaps válidos: 0
+[2026-01-16 12:40:10]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:13]   Procesando S1E09: Episode 109
+[2026-01-16 12:40:13]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep109.html
+[2026-01-16 12:40:13]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=13
+[2026-01-16 12:40:13]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=13
+[2026-01-16 12:40:14]     Total de imágenes en galería: 18
+[2026-01-16 12:40:14]     Total de screencaps válidos: 0
+[2026-01-16 12:40:14]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:17]   Procesando S1E10: Episode 110
+[2026-01-16 12:40:17]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep110.html
+[2026-01-16 12:40:17]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=14
+[2026-01-16 12:40:17]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=14
+[2026-01-16 12:40:18]     Total de imágenes en galería: 18
+[2026-01-16 12:40:18]     Total de screencaps válidos: 0
+[2026-01-16 12:40:18]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:21]   Procesando S2E01: Episode 201
+[2026-01-16 12:40:21]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep201.html
+[2026-01-16 12:40:22]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:22]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:25]   Procesando S2E02: Episode 202
+[2026-01-16 12:40:25]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep202.html
+[2026-01-16 12:40:25]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:25]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:28]   Procesando S2E03: Episode 203
+[2026-01-16 12:40:28]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep203.html
+[2026-01-16 12:40:29]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:29]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:32]   Procesando S2E04: Episode 204
+[2026-01-16 12:40:32]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep204.html
+[2026-01-16 12:40:32]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:32]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:35]   Procesando S2E05: Episode 205
+[2026-01-16 12:40:35]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep205.html
+[2026-01-16 12:40:36]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:36]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:39]   Procesando S2E06: Episode 206
+[2026-01-16 12:40:39]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep206.html
+[2026-01-16 12:40:40]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:40]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:43]   Procesando S2E07: Episode 207
+[2026-01-16 12:40:43]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep207.html
+[2026-01-16 12:40:43]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:43]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:46]   Procesando S2E08: Episode 208
+[2026-01-16 12:40:46]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep208.html
+[2026-01-16 12:40:47]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:47]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:50]   Procesando S2E09: Episode 209
+[2026-01-16 12:40:50]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep209.html
+[2026-01-16 12:40:50]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:50]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:53]   Procesando S2E10: Episode 210
+[2026-01-16 12:40:53]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep210.html
+[2026-01-16 12:40:54]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:40:54]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:40:57] ✅ Total procesado: 0 episodios con screencaps
+[2026-01-16 12:41:02] ⚠️ No se encontraron screencaps
+[2026-01-16 12:41:02] ======================================================================
+[2026-01-16 12:41:02] ✅ TrekCore Scraper finalizado
+[2026-01-16 12:41:02] ======================================================================
+[2026-01-16 12:42:04] ======================================================================
+[2026-01-16 12:42:04] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:42:04] ======================================================================
+[2026-01-16 12:42:04] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:42:04]   Encontradas 20 celdas de episodios
+[2026-01-16 12:42:04]   Procesando S1E01: Kids These Days
+[2026-01-16 12:42:04]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep101.html
+[2026-01-16 12:42:05]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:42:05]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:42:06]     Total de imágenes en galería: 44
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-01.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-02.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-03.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-04.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-05.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-06.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-07.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-08.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-09.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-10.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-11.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-12.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-13.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-14.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-15.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-16.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-17.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-18.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-19.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-20.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-21.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-22.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-23.jpg
+[2026-01-16 12:42:06]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-24.jpg
+[2026-01-16 12:42:06]     Total de screencaps válidos: 24
+[2026-01-16 12:42:06]     ✅ 24 screencaps encontrados
+[2026-01-16 12:42:09]   Procesando S1E02: Beta Test
+[2026-01-16 12:42:09]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep102.html
+[2026-01-16 12:42:09]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:42:09]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:42:10]     Total de imágenes en galería: 44
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-01.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-02.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-03.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-04.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-05.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-06.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-07.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-08.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-09.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-10.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-11.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-12.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-13.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-14.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-15.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-16.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-17.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-18.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-19.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-20.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-21.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-22.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-23.jpg
+[2026-01-16 12:42:10]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-24.jpg
+[2026-01-16 12:42:10]     Total de screencaps válidos: 24
+[2026-01-16 12:42:10]     ✅ 24 screencaps encontrados
+[2026-01-16 12:42:13]   Procesando S1E03: Episode 103
+[2026-01-16 12:42:13]     📝 Título actualizado: Episode 103 -> Vitus Reflux
+[2026-01-16 12:42:13]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep103.html
+[2026-01-16 12:42:13]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=7
+[2026-01-16 12:42:13]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=7
+[2026-01-16 12:42:14]     Total de imágenes en galería: 23
+[2026-01-16 12:42:14]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-01.jpg
+[2026-01-16 12:42:14]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-02.jpg
+[2026-01-16 12:42:14]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-03.jpg
+[2026-01-16 12:42:14]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-04.jpg
+[2026-01-16 12:42:14]     Total de screencaps válidos: 4
+[2026-01-16 12:42:14]     ✅ 4 screencaps encontrados
+[2026-01-16 12:42:17]   Procesando S1E04: Episode 104
+[2026-01-16 12:42:17]     📝 Título actualizado: Episode 104 -> Vox in Excelsio
+[2026-01-16 12:42:17]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep104.html
+[2026-01-16 12:42:18]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=8
+[2026-01-16 12:42:18]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=8
+[2026-01-16 12:42:18]     Total de imágenes en galería: 20
+[2026-01-16 12:42:18]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/104/104-photo-01.jpg
+[2026-01-16 12:42:18]     Total de screencaps válidos: 1
+[2026-01-16 12:42:18]     ✅ 1 screencaps encontrados
+[2026-01-16 12:42:21]   Procesando S1E05: Episode 105
+[2026-01-16 12:42:21]     📝 Título actualizado: Episode 105 -> Series Acclimation Mil
+[2026-01-16 12:42:21]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep105.html
+[2026-01-16 12:42:22]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=9
+[2026-01-16 12:42:22]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=9
+[2026-01-16 12:42:22]     Total de imágenes en galería: 22
+[2026-01-16 12:42:22]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/105/105-photo-01.jpg
+[2026-01-16 12:42:22]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/105/105-photo-02.jpg
+[2026-01-16 12:42:22]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/105/105-photo-03.jpg
+[2026-01-16 12:42:22]     Total de screencaps válidos: 3
+[2026-01-16 12:42:22]     ✅ 3 screencaps encontrados
+[2026-01-16 12:42:25]   Procesando S1E06: Episode 106
+[2026-01-16 12:42:25]     📝 Título actualizado: Episode 106 -> Come, Let's Away
+[2026-01-16 12:42:25]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep106.html
+[2026-01-16 12:42:26]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=10
+[2026-01-16 12:42:26]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=10
+[2026-01-16 12:42:27]     Total de imágenes en galería: 20
+[2026-01-16 12:42:27]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/106/106-photo-01.jpg
+[2026-01-16 12:42:27]     Total de screencaps válidos: 1
+[2026-01-16 12:42:27]     ✅ 1 screencaps encontrados
+[2026-01-16 12:42:30]   Procesando S1E07: Episode 107
+[2026-01-16 12:42:30]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep107.html
+[2026-01-16 12:42:30]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=11
+[2026-01-16 12:42:30]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=11
+[2026-01-16 12:42:31]     Total de imágenes en galería: 18
+[2026-01-16 12:42:31]     Total de screencaps válidos: 0
+[2026-01-16 12:42:31]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:42:34]   Procesando S1E08: Episode 108
+[2026-01-16 12:42:34]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep108.html
+[2026-01-16 12:42:34]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=12
+[2026-01-16 12:42:34]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=12
+[2026-01-16 12:42:35]     Total de imágenes en galería: 21
+[2026-01-16 12:42:35]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/108/108-photo-01.jpg
+[2026-01-16 12:42:35]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/108/108-photo-02.jpg
+[2026-01-16 12:42:35]     Total de screencaps válidos: 2
+[2026-01-16 12:42:35]     ✅ 2 screencaps encontrados
+[2026-01-16 12:42:38]   Procesando S1E09: Episode 109
+[2026-01-16 12:42:38]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep109.html
+[2026-01-16 12:42:39]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=13
+[2026-01-16 12:42:39]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=13
+[2026-01-16 12:42:39]     Total de imágenes en galería: 18
+[2026-01-16 12:42:39]     Total de screencaps válidos: 0
+[2026-01-16 12:42:39]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:42:42]   Procesando S1E10: Episode 110
+[2026-01-16 12:42:42]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep110.html
+[2026-01-16 12:42:43]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=14
+[2026-01-16 12:42:43]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=14
+[2026-01-16 12:42:44]     Total de imágenes en galería: 18
+[2026-01-16 12:42:44]     Total de screencaps válidos: 0
+[2026-01-16 12:42:44]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:42:47]   Procesando S2E01: Episode 201
+[2026-01-16 12:42:47]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep201.html
+[2026-01-16 12:42:47]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:42:47]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:42:50]   Procesando S2E02: Episode 202
+[2026-01-16 12:42:50]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep202.html
+[2026-01-16 12:42:51]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:42:51]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:42:54]   Procesando S2E03: Episode 203
+[2026-01-16 12:42:54]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep203.html
+[2026-01-16 12:42:54]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:42:54]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:42:57]   Procesando S2E04: Episode 204
+[2026-01-16 12:42:57]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep204.html
+[2026-01-16 12:42:58]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:42:58]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:01]   Procesando S2E05: Episode 205
+[2026-01-16 12:43:01]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep205.html
+[2026-01-16 12:43:02]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:43:02]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:05]   Procesando S2E06: Episode 206
+[2026-01-16 12:43:05]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep206.html
+[2026-01-16 12:43:05]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:43:05]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:08]   Procesando S2E07: Episode 207
+[2026-01-16 12:43:08]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep207.html
+[2026-01-16 12:43:09]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:43:09]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:12]   Procesando S2E08: Episode 208
+[2026-01-16 12:43:12]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep208.html
+[2026-01-16 12:43:12]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:43:12]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:15]   Procesando S2E09: Episode 209
+[2026-01-16 12:43:15]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep209.html
+[2026-01-16 12:43:16]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:43:16]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:19]   Procesando S2E10: Episode 210
+[2026-01-16 12:43:19]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep210.html
+[2026-01-16 12:43:19]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:43:19]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:43:22] ✅ Total procesado: 7 episodios con screencaps
+[2026-01-16 12:43:27] ✅ Screencaps JSON actualizado: 7 episodios
+[2026-01-16 12:43:27] ✅ Episodes JSON actualizado: 7 episodios con gallery
+[2026-01-16 12:43:27] ✅ Scraping completado: 7 episodios procesados
+[2026-01-16 12:43:27] ======================================================================
+[2026-01-16 12:43:27] ✅ TrekCore Scraper finalizado
+[2026-01-16 12:43:27] ======================================================================
+[2026-01-16 12:44:14] ======================================================================
+[2026-01-16 12:44:14] 🚀 Iniciando TrekCore Scraper
+[2026-01-16 12:44:14] ======================================================================
+[2026-01-16 12:44:14] Scraping Star Trek: Starfleet Academy...
+[2026-01-16 12:44:15]   Encontradas 20 celdas de episodios
+[2026-01-16 12:44:15]   Procesando S1E01: Kids These Days
+[2026-01-16 12:44:15]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep101.html
+[2026-01-16 12:44:15]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:44:15]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=4
+[2026-01-16 12:44:16]     Total de imágenes en galería: 44
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-01.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-02.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-03.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-04.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-05.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-06.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-07.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-08.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-09.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-10.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-11.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-12.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-13.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-14.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-15.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-16.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-17.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-18.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-19.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-20.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-21.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-22.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-23.jpg
+[2026-01-16 12:44:16]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/101/kids-these-days-24.jpg
+[2026-01-16 12:44:16]     Total de screencaps válidos: 24
+[2026-01-16 12:44:16]     ✅ 24 screencaps encontrados
+[2026-01-16 12:44:19]   Procesando S1E02: Beta Test
+[2026-01-16 12:44:19]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep102.html
+[2026-01-16 12:44:19]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:44:19]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=5
+[2026-01-16 12:44:20]     Total de imágenes en galería: 44
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-01.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-02.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-03.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-04.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-05.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-06.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-07.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-08.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-09.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-10.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-11.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-12.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-13.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-14.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-15.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-16.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-17.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-18.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-19.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-20.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-21.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-22.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-23.jpg
+[2026-01-16 12:44:20]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/102/beta-test-24.jpg
+[2026-01-16 12:44:20]     Total de screencaps válidos: 24
+[2026-01-16 12:44:20]     ✅ 24 screencaps encontrados
+[2026-01-16 12:44:23]   Procesando S1E03: Episode 103
+[2026-01-16 12:44:23]     📝 Título actualizado: Episode 103 -> Vitus Reflux
+[2026-01-16 12:44:23]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep103.html
+[2026-01-16 12:44:24]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=7
+[2026-01-16 12:44:24]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=7
+[2026-01-16 12:44:24]     Total de imágenes en galería: 23
+[2026-01-16 12:44:24]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-01.jpg
+[2026-01-16 12:44:24]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-02.jpg
+[2026-01-16 12:44:24]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-03.jpg
+[2026-01-16 12:44:24]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/103/103-photo-04.jpg
+[2026-01-16 12:44:24]     Total de screencaps válidos: 4
+[2026-01-16 12:44:24]     ✅ 4 screencaps encontrados
+[2026-01-16 12:44:27]   Procesando S1E04: Episode 104
+[2026-01-16 12:44:27]     📝 Título actualizado: Episode 104 -> Vox in Excelsio
+[2026-01-16 12:44:27]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep104.html
+[2026-01-16 12:44:28]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=8
+[2026-01-16 12:44:28]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=8
+[2026-01-16 12:44:28]     Total de imágenes en galería: 20
+[2026-01-16 12:44:28]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/104/104-photo-01.jpg
+[2026-01-16 12:44:28]     Total de screencaps válidos: 1
+[2026-01-16 12:44:28]     ✅ 1 screencaps encontrados
+[2026-01-16 12:44:31]   Procesando S1E05: Episode 105
+[2026-01-16 12:44:31]     📝 Título actualizado: Episode 105 -> Series Acclimation Mil
+[2026-01-16 12:44:31]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep105.html
+[2026-01-16 12:44:32]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=9
+[2026-01-16 12:44:32]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=9
+[2026-01-16 12:44:33]     Total de imágenes en galería: 22
+[2026-01-16 12:44:33]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/105/105-photo-01.jpg
+[2026-01-16 12:44:33]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/105/105-photo-02.jpg
+[2026-01-16 12:44:33]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/105/105-photo-03.jpg
+[2026-01-16 12:44:33]     Total de screencaps válidos: 3
+[2026-01-16 12:44:33]     ✅ 3 screencaps encontrados
+[2026-01-16 12:44:36]   Procesando S1E06: Episode 106
+[2026-01-16 12:44:36]     📝 Título actualizado: Episode 106 -> Come, Let's Away
+[2026-01-16 12:44:36]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep106.html
+[2026-01-16 12:44:36]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=10
+[2026-01-16 12:44:36]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=10
+[2026-01-16 12:44:37]     Total de imágenes en galería: 20
+[2026-01-16 12:44:37]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/106/106-photo-01.jpg
+[2026-01-16 12:44:37]     Total de screencaps válidos: 1
+[2026-01-16 12:44:37]     ✅ 1 screencaps encontrados
+[2026-01-16 12:44:40]   Procesando S1E07: Episode 107
+[2026-01-16 12:44:40]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep107.html
+[2026-01-16 12:44:40]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=11
+[2026-01-16 12:44:40]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=11
+[2026-01-16 12:44:41]     Total de imágenes en galería: 18
+[2026-01-16 12:44:41]     Total de screencaps válidos: 0
+[2026-01-16 12:44:41]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:44:44]   Procesando S1E08: Episode 108
+[2026-01-16 12:44:44]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep108.html
+[2026-01-16 12:44:45]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=12
+[2026-01-16 12:44:45]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=12
+[2026-01-16 12:44:45]     Total de imágenes en galería: 21
+[2026-01-16 12:44:45]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/108/108-photo-01.jpg
+[2026-01-16 12:44:45]       Encontrada: https://academy.trekcore.com/gallery/albums/publicity/season1/108/108-photo-02.jpg
+[2026-01-16 12:44:45]     Total de screencaps válidos: 2
+[2026-01-16 12:44:45]     ✅ 2 screencaps encontrados
+[2026-01-16 12:44:48]   Procesando S1E09: Episode 109
+[2026-01-16 12:44:48]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep109.html
+[2026-01-16 12:44:49]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=13
+[2026-01-16 12:44:49]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=13
+[2026-01-16 12:44:49]     Total de imágenes en galería: 18
+[2026-01-16 12:44:49]     Total de screencaps válidos: 0
+[2026-01-16 12:44:49]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:44:52]   Procesando S1E10: Episode 110
+[2026-01-16 12:44:52]     Scraping página: https://academy.trekcore.com/episodes/season1/sfa-ep110.html
+[2026-01-16 12:44:53]     ✅ Encontrado enlace de galería: https://academy.trekcore.com/gallery/thumbnails.php?album=14
+[2026-01-16 12:44:53]     Accediendo a galería: https://academy.trekcore.com/gallery/thumbnails.php?album=14
+[2026-01-16 12:44:54]     Total de imágenes en galería: 18
+[2026-01-16 12:44:54]     Total de screencaps válidos: 0
+[2026-01-16 12:44:54]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:44:57]   Procesando S2E01: Episode 201
+[2026-01-16 12:44:57]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep201.html
+[2026-01-16 12:44:57]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:44:57]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:00]   Procesando S2E02: Episode 202
+[2026-01-16 12:45:00]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep202.html
+[2026-01-16 12:45:01]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:01]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:04]   Procesando S2E03: Episode 203
+[2026-01-16 12:45:04]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep203.html
+[2026-01-16 12:45:04]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:04]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:07]   Procesando S2E04: Episode 204
+[2026-01-16 12:45:07]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep204.html
+[2026-01-16 12:45:08]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:08]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:11]   Procesando S2E05: Episode 205
+[2026-01-16 12:45:11]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep205.html
+[2026-01-16 12:45:12]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:12]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:15]   Procesando S2E06: Episode 206
+[2026-01-16 12:45:15]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep206.html
+[2026-01-16 12:45:15]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:15]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:18]   Procesando S2E07: Episode 207
+[2026-01-16 12:45:18]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep207.html
+[2026-01-16 12:45:19]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:19]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:22]   Procesando S2E08: Episode 208
+[2026-01-16 12:45:22]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep208.html
+[2026-01-16 12:45:22]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:22]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:25]   Procesando S2E09: Episode 209
+[2026-01-16 12:45:25]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep209.html
+[2026-01-16 12:45:26]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:26]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:29]   Procesando S2E10: Episode 210
+[2026-01-16 12:45:29]     Scraping página: https://academy.trekcore.com/episodes/season2/sfa-ep210.html
+[2026-01-16 12:45:30]     ⚠️  No se encontró enlace de galería en la página
+[2026-01-16 12:45:30]     ⚠️  No se encontraron screencaps
+[2026-01-16 12:45:33] ✅ Total procesado: 7 episodios con screencaps
+[2026-01-16 12:45:38] ✅ Screencaps JSON actualizado: 7 episodios
+[2026-01-16 12:45:38] ✅ Episodes JSON actualizado: 0 episodios con gallery
+[2026-01-16 12:45:38] ✅ Scraping completado: 7 episodios procesados
+[2026-01-16 12:45:38] ======================================================================
+[2026-01-16 12:45:38] ✅ TrekCore Scraper finalizado
+[2026-01-16 12:45:38] ======================================================================
