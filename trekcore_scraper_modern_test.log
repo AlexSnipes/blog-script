@@ -1,0 +1,43 @@
+[2026-01-20 16:35:41] ======================================================================
+[2026-01-20 16:35:41] 🚀 Iniciando TrekCore Scraper
+[2026-01-20 16:35:41] ======================================================================
+[2026-01-20 16:35:41] Scraping Star Trek: Discovery...
+[2026-01-20 16:35:42]   Encontradas 71 celdas de episodios
+[2026-01-20 16:35:42]   Procesando S1E01: The Vulcan Hello
+[2026-01-20 16:35:42]     Scraping página: https://discovery.trekcore.com/episodes/season1/dsc-ep101.html
+[2026-01-20 16:35:42]     ✅ Encontrado enlace de galería: https://discovery.trekcore.com/gallery/thumbnails.php?album=299
+[2026-01-20 16:35:42]     Accediendo a galería: https://discovery.trekcore.com/gallery/thumbnails.php?album=299
+[2026-01-20 16:35:43]     Total de imágenes en galería: 44
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-burnham-georgiou-sarcophagus-ship.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-burnham-phaser-sarcophagus-ship.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-burnham-shenzhou-transporter.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-desert-cavern.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-desert-walking.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-desert-walking2.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-desert.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-first-day-shenzhou.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-phaser-rifles-desert.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-ready-room.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-sarcophagus-ship-phasers.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-burnham-shenzhou-transporter.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-phaser-klingon-ship.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-shenzhou-transporter.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgiou-vs-tkuvma.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-georgoiu-command-chair.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-lrell-tkuvma-sarcaphagus-ship-bridge.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-lrell-tkuvma-torch.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-lrell.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-sarcaphagus-death-yell.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-sarek-burnham.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-sarek-shenzhou-transporter-room.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-saru-burnham-georgiou-shenzhou-bridge.jpg
+[2026-01-20 16:35:43]       Encontrada: https://discovery.trekcore.com/gallery/albums/promo-photos/season1/101-102/101-102-saru-ready-room-concerned.jpg
+[2026-01-20 16:35:43]     Total de screencaps válidos: 24
+[2026-01-20 16:35:43]     ✅ 24 screencaps encontrados
+[2026-01-20 16:35:46] ✅ Total procesado: 1 episodios con screencaps
+[2026-01-20 16:35:51] ✅ Screencaps JSON actualizado: 1 episodios
+[2026-01-20 16:35:51] ✅ Episodes JSON actualizado: 1 episodios con gallery
+[2026-01-20 16:35:51] ✅ Scraping completado: 1 episodios procesados
+[2026-01-20 16:35:51] ======================================================================
+[2026-01-20 16:35:51] ✅ TrekCore Scraper finalizado
+[2026-01-20 16:35:51] ======================================================================
